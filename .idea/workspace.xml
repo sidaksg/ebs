@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cee8c825-0183-4db2-8f61-0c6a2daabe13" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/src.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hotel_Management_System.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hotel_management_system/AddDrivers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hotel_management_system/AddEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hotel_management_system/AddRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hotel_management_system/CheckOut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hotel_management_system/CustomerInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hotel_management_system/Dashboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hotel_management_system/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hotel_management_system/HotelManagementSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hotel_management_system/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hotel_management_system/ManagerInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hotel_management_system/NewCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hotel_management_system/PickUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hotel_management_system/Reception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hotel_management_system/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hotel_management_system/SearchRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hotel_management_system/UpdateCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hotel_management_system/UpdateRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hotel_management_system/conn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/eight.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/eleven.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/fifith.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/fifth.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/fifth.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/first.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/fourth.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/nine.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/second.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/seventh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/sixth.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/tenth.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/third.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/tick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/twelve.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2KiesFTPvMzkHp8wea8QMY5SBy0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/HP/IdeaProjects/Hotel_Management_System",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.VCS"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="hotel_management_system" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\IdeaProjects\Hotel_Management_System\src\icons" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Reception">
+    <configuration name="HotelManagementSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hotel_management_system.HotelManagementSystem" />
+      <module name="Hotel_Management_System" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hotel_management_system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Reception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hotel.Reception" />
+      <module name="Hotel_Management_System" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hotel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Reception" />
+        <item itemvalue="Application.HotelManagementSystem" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cee8c825-0183-4db2-8f61-0c6a2daabe13" name="Changes" comment="" />
+      <created>1674462040090</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674462040090</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
